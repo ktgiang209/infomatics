@@ -1,0 +1,28 @@
+
+Tuesday:
+	group: P3107
+	lesson1:
+		name: INFORMATICS(LEK)
+		teacher: PavelBalakshin
+		time: 08:20-09:50
+		place: Lomonosovast.,9,letterM
+		room: CERTIFICHALL
+		form: fulltime-remote
+	
+	lesson2:
+		name: BASICSOFPROFESSIONALACTIVITIES(LEK)
+		teacher: KlimenkovSergeyViktorovich
+		time: 10:00-11:30
+		place: Lomonosovast.,9,letterM
+		room: CERTIFICHALL
+		form: fulltime-remote
+	
+	lesson3:
+		name: PROGRAMMING(LEK)
+		teacher: PismakAlexeyEvgenyevich
+		time: 11:40-13:10
+		place: Lomonosovast.,9,letterM
+		room: AUD1223
+		form: fulltime-remote
+	
+
