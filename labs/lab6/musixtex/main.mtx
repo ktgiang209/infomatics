@@ -1,0 +1,29 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[russian]{babel}
+\usepackage[a4paper,margin=2cm]{geometry}
+\usepackage{mtxlatex}
+
+
+\begin{document}
+\begin{center}
+\textbf{\Large{Национальный гимн Дании}}
+\end{center}
+\raggedleft
+\large{Композитор: Ганс Эрнст Кройер}
+
+\begin{music}
+\parindent10mm
+\instrumentnumber{1}
+\generalmeter{\meterC}
+\generalsignature{2}
+\startextract
+\Notes\cu d\en\bar \Notes\qup h\en \Notes\cu h\en \Notes\qu f\en \Notes\qu d\en\bar
+\Notes\hl i\qp\ds\en \Notes\cu d\en\bar \Notes\qlp k\en \Notes\cl k\en \Notes\ql j\en
+\Notes\ql i\en\bar \Notes\ql i\en \Notes\qu h\qp\en \Notes\qu h\en\bar \Notes\qup c\en
+\Notes\cu c\en \Notes\qu d\en \Notes\qu e\en\endpice
+\zendextract
+\end{music}
+\end{document}
